@@ -7,7 +7,7 @@
 
 #import "WindowController.h"
 
-#import "GCDAsyncSocket.h"
+//#import "GCDAsyncSocket.h"
 
 int fd;
 struct termios oldtio, newtio;
